@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FormView">
+        <attr name="rowNum" format="integer"/>
+        <attr name="colNum" format="integer"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textPadding" format="dimension"/>
+        <attr name="strokeWidth" format="float"/>
+        <attr name="strokeColor" format="color"/>
+    </declare-styleable>
+
+</resources>
